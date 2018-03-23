@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LegnaPicturesBed:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="LegnaPicturesBed.war">
+      <element id="artifact" artifact-name="LegnaPicturesBed:war exploded" />
+    </root>
+  </artifact>
+</component>
